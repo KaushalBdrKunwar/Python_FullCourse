@@ -1,3 +1,4 @@
+#WAP to input eight numbers from user and display all unique numbers(once)
 s= set()
 
 n = input("Enter number :")
