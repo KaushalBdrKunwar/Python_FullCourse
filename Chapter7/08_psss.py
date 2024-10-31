@@ -1,5 +1,5 @@
-for i in range(645):
-    pass # null statement that dont allow to throw error.
+# for i in range(645):
+#     pass # null statement that dont allow to throw
 
 i = 0
 while(i<45):
