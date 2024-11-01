@@ -3,7 +3,7 @@
 
 # Types of Files.
 
-f = f = open("C:/Users/legion/Desktop/PythonFullCourse/Chapter9/file.txt")
+f = open("C:/Users/legion/Desktop/PythonFullCourse/Chapter9/file.txt")
   # Open the file and assign it to 'f'
 data = f.read()       # Read the content of the file
 print(data)           # Print the content
