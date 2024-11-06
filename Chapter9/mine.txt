@@ -1,0 +1,3 @@
+###### is a language. ###### is used for programming.
+He is a ######.
+I am not ###.
