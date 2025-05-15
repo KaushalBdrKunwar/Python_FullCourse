@@ -32,3 +32,5 @@ def age_greater_than_25(person):
 
 old_people = list(filter(age_greater_than_25,people))
 print(old_people)
+
+# It is commonly used in data cleaning, filtering objects, and removing unwanted element from lists.
