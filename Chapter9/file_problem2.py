@@ -22,6 +22,7 @@ def game():
         with open(r"C:\Users\legion\Desktop\PythonFullCourse\Chapter9\hiscore.txt","w") as f:
              f.write(str(score))
 
-        return score
+    return hiscore
 
 game()
+print(f"high score is: {game()}")
