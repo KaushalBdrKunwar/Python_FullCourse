@@ -27,4 +27,4 @@ try:
 except StopIteration:
     print("There is no elements in the iterator")
 
-### can be used for string also in the same way
+### can be used for string also in the same way.

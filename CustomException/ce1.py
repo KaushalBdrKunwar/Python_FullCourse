@@ -6,7 +6,7 @@ class Error(Exception):
 class dobException(Error):
     pass
 
-year = int(input("Enter the dob: "))
+year = int(input("Enter the birth year in AD: "))
 age = 2025-year
 
 try:
